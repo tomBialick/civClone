@@ -1,0 +1,10 @@
+.MapSceen {
+  text-align: center;
+}
+.MapScreen_table {
+  margin-left: auto;
+  margin-right: auto;
+}
+.MapScreen_tableData {
+  padding: 10px;
+}

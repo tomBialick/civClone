@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.spacer {
+  padding: 20px;
+}
+
+#login_greeting {
+  text-align: left;
+}

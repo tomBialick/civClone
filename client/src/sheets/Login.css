@@ -1,0 +1,13 @@
+#login_creds_area {
+  display: grid;
+  grid-template-columns: auto auto;
+}
+
+#login_area {
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+.login_area_text {
+  text-align: right;
+}
